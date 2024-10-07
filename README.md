@@ -12,8 +12,7 @@ The received signal strength data in the static scenario is a .mat file in the f
 ## 1.3	Dataset visualizations 
 <div align=center>
 Dynamic scenario        Static scenario (t = 100s) <br>
-  
-![img](https://github.com/qiuming-nuaa/Dataset-for-RSSI-radio-map-under-urban-scenario/blob/master/figures/dynamic.gif) 
+<img src="https://github.com/qiuming-nuaa/Dataset-for-RSSI-radio-map-under-urban-scenario/blob/master/20m300t.gif" width="220px"> 
 <img src="https://github.com/qiuming-nuaa/Dataset-for-RSSI-radio-map-under-urban-scenario/blob/master/figures/static40m.jpg" width="220px"> <br></div>
 
 ## 1.4 Recommended references<br>
